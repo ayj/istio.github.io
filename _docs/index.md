@@ -14,7 +14,7 @@ Follow this link for the archive of [most recent stable release (0.1) documentat
 
 # Welcome to Istio {{site.data.istio.version}}
 
-TEST EDIT FOR NETLIFY
+TEST EDIT FOR NETLIFY (version2 branch)
 
 Welcome to Istio's latest documentation home page. From here you can learn all about Istio by following
 the links below:
