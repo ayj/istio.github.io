@@ -10,8 +10,4 @@ toc: false
 ---
 {% include home.html %}
 
----------------------------------------------
-
-This page exists in the master branch only!
-
----------------------------------------------
+Sample check to demo deploy preview
