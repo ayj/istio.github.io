@@ -35,6 +35,8 @@ collections:
     output: true
   about:
     output: true
+  golang:
+    output: true
 
 plugins:
   - jekyll-redirect-from
@@ -69,3 +71,6 @@ exclude:
 
 repository:
   istio/istio.github.io
+
+include:
+  - _redirects
